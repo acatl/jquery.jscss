@@ -4,7 +4,7 @@ jquery.jscss.js
 Copyright 2013, Acatl Pacheco
 Licensed under the MIT License.
 
-@WIP 
+@WIP
 
 ###
 
